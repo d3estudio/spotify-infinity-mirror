@@ -42,7 +42,7 @@ function ApplicationUpdate () {
 function ApplicationHelp () {
   echo "usage:"
   echo "	-c,--client.		Install Client Version."
-  echo "	-s,--serer.		  Install Server Version."
+  echo "	-s,--server.		  Install Server Version."
   echo "	-u,--update.		Command git pull to update."
 }
 
